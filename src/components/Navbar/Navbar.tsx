@@ -12,7 +12,7 @@ export function Navbar() {
             <Link to="/">Home</Link>
           </h2>
           <h2 className='font-header text-lg font-bold uppercase tracking-tight text-teal-500 list-none'>
-            <Link to="./about">About</Link>
+            <Link to="/about">About</Link>
           </h2>
         </div>
 
