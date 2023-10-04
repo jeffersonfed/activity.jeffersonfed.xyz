@@ -140,6 +140,12 @@ const MyName = () => {
   return (
     <section className='my-4 grid grid-cols-1 sm:grid-cols-1'>
       <div>
+        <h2 className='font-header text-lg font-bold uppercase tracking-tight text-teal-500 justify-center'>
+          <img src="https://portfolio.jeffersonfed.xyz/assets/portrait2.jpg" alt="Profile" className='rounded-full h-36 mx-auto items-center' />
+        </h2>
+        
+      </div>
+      <div>
         <h2 className='font-header text-lg font-bold uppercase tracking-tight text-teal-500'>
           My Name
         </h2>
