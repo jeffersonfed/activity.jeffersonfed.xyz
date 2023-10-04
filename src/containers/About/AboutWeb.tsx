@@ -270,10 +270,10 @@ export const AboutWeb = () => {
     <div className='mt-8 flex w-full flex-col items-center px-8 text-center'>
       <footer className='w-full max-w-2xl'>
         <Navbar />
-        {/* <MyName /> */}
+        {/*  */}
+        {/* <MyName />
         <hr className='my-4 mx-auto border-white border-b-8 rounded-2xl' />
         <AboutMe />
-        {/* <AboutMe2 /> */}
 
         <hr className='my-4 mx-auto border-white border-b-8 rounded-2xl' />
 
@@ -293,7 +293,7 @@ export const AboutWeb = () => {
               The truth is, it's not about front-end, it symbolizes '<span className='hover:text-teal-500'>Forever Eager and Driven</span>', encouraging me to keep moving forward.
             </p>
           </ul>
-        </section>
+        </section> */}
 
         {/* <hr className='my-4 mx-auto border-white border-b-8 rounded-2xl' /> */}
 
