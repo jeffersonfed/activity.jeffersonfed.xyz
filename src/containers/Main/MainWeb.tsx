@@ -197,8 +197,8 @@ const AboutMe = () => {
         </h2>
 
         <ul className='font-medium tracking-tight text-slate-200'>
-            <MyLinks href='https://jeffersonfed.xyz' text='Blog' />
-            <MyLinks href='https://portfolio.jeffersonfed.xyz' text='Portfolio' />
+            <MyLinks href='https://jeffersonfed.xyz' text='Personal Landing Page' />
+            <MyLinks href='https://portfolio.jeffersonfed.xyz' text='Portfolio (In Progress)' />
             <MyLinks href='https://links.jeffersonfed.xyz' text='Links' />
         </ul>
       </div>
@@ -222,7 +222,7 @@ const AboutMe = () => {
 
         <ul className='font-medium tracking-tight text-slate-200'>
           <MyLinks href='https://linkedin.com/in/jeffersonfed' text='Linkedin' />
-          <MyLinks href='https://portfolio.jeffersonfed.xyz/Resume_CV.pdf' text='Resume' />
+          {/* <MyLinks href='https://portfolio.jeffersonfed.xyz/Resume_CV.pdf' text='Resume' /> */}
         </ul>
       </div>
       
